@@ -1,0 +1,1 @@
+alert('WebSocket' in window);
